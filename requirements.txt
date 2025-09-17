@@ -1,0 +1,17 @@
+flask
+openai
+openai-whisper
+google-generativeai>=0.3.0
+python-dotenv
+requests
+pillow
+numpy
+pyttsx3
+SpeechRecognition
+pyaudio
+matplotlib
+pandas
+geopy
+gunicorn==21.2.0
+python-dotenv==1.0.0
+werkzeug==3.0.1
